@@ -1,0 +1,7 @@
+Maldives,MV
+Bahamas,BS
+Varna,BG
+Barcelona,ES
+Sochi,RU
+Adler,RU
+
